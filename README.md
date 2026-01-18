@@ -62,14 +62,14 @@ collect → dedupe → extract → digest → output
 - `README.md`: Project overview and usage documentation.
 ---
 
-## What This Project Is
+## What This Project Is / Is Not
 
+**This project is:**
 - A **portfolio-grade demonstration** of AI-native system design
 - Focused on **clarity, structure, and reasoning**
 - Intended for **technical reviewers, hiring managers, and collaborators**
 
-## What This Project Is Not
-
+**This project is not:**
 - A production-ready system
 - A hosted SaaS or turnkey product
 - A complete implementation of all pipeline stages
