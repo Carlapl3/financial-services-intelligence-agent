@@ -8,7 +8,13 @@
 
 - Loom walkthrough (3–4 min): <PASTE_LOOM_LINK_HERE>
 - Example output: `examples/sample-digest-v1.md`
-- Architecture overview: `docs/architecture.png`
+
+## Architecture
+
+![System architecture](docs/architecture.svg)
+
+The diagram illustrates the end-to-end flow from source ingestion to executive-ready email delivery,
+including agent orchestration, guardrails, and long-term memory.
 
 ---
 
