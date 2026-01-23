@@ -8,6 +8,7 @@
 
 - Loom walkthrough (3–4 min): <PASTE_LOOM_LINK_HERE>
 - Example output: `examples/sample-digest-v1.md`
+- Agent execution trace (v2): examples/v2-agent-execution-trace.md
 
 ## Architecture
 
