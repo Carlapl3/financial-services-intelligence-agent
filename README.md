@@ -34,6 +34,8 @@ Used by management consulting partners and advisory teams within financial servi
 
 ## Capabilities
 
+Scalable architecture: Environment-driven model configuration enables controlled model upgrades and clear cost transparency.
+
 - Source-based signal collection
 - Rule-based filtering and prioritization
 - LLM-assisted extraction and summarization
