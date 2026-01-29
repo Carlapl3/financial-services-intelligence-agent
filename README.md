@@ -75,7 +75,6 @@ Demo uses public fintech/regulatory sources for illustration.
 - `docs/`: High-level documentation describing architecture, design decisions, and pipeline flow.
 - `templates/`: Reusable templates for digests and configuration examples.
 - `src/`- Pipeline implementation (collect, extract, dedupe, digest)
-- `README.md`: Project overview and usage documentation.
 
 
 
