@@ -21,7 +21,9 @@ including agent orchestration, guardrails, and long-term memory.
 
 ## Overview
 
-AI Trend Monitoring is a task-oriented, AI-assisted agent designed for recurring monitoring of financial and regulatory developments.
+AI-assisted agent for monitoring financial and regulatory developments. 
+
+Built for consulting partners, demonstrating end-to-end agentic pipeline with feedback loops, adaptive prioritization, and incremental evolution (v1→v3).
 
 The agent collects signals from selected sources, applies configurable rules and prioritization logic, uses LLMs for structured extraction and interpretation, and produces concise, executive-ready digests.
 
