@@ -30,15 +30,6 @@ The agent collects signals from selected sources, applies configurable rules and
 This repository is intentionally scoped as a **portfolio-grade demonstration** of agent design, system architecture, and reasoning — not as a production system.
 
 ---
-## Typical Use Case
-
-Used by management consulting partners and advisory teams within financial services to:
-
-- Monitor regulatory and market developments
-- Identify high-impact signals early
-- Produce structured, client-ready briefings for executives
-
----
 
 ## Capabilities
 
@@ -60,6 +51,16 @@ collect → dedupe → apply_rules → extract → digest → output
 4. **Extract** structured insights using LLMs  
 5. **Digest** content into a concise executive format  
 6. **Output** as Markdown (email-ready)
+
+---
+## Typical Use Case
+
+Used by management consulting partners and advisory teams within financial services to:
+
+- Monitor regulatory and market developments
+- Identify high-impact signals early
+- Produce structured, client-ready briefings for executives
+
 
 ---
 
