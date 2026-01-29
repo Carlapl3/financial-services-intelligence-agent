@@ -69,7 +69,7 @@ collect → dedupe → apply_rules → extract → digest → output
 
 ---
 
-## Implementation Notes
+## Scope
 This system is designed for financial services monitoring with configurable sources.
 Demo uses public fintech/regulatory sources for illustration.
 
