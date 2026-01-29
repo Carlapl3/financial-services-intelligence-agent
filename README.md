@@ -28,6 +28,11 @@ The agent collects signals from selected sources, applies configurable rules and
 This repository is intentionally scoped as a **portfolio-grade demonstration** of agent design, system architecture, and reasoning — not as a production system.
 
 ---
+## Implementation Notes
+This system is designed for financial services monitoring with configurable sources.
+Demo uses public fintech/regulatory sources for illustration.
+
+---
 ## What this repository demonstrates
 
 - End-to-end design of an agentic monitoring pipeline used in a real consulting context
