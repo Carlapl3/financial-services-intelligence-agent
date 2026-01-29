@@ -29,14 +29,6 @@ The agent collects signals from selected sources, applies configurable rules and
 
 This repository is intentionally scoped as a **portfolio-grade demonstration** of agent design, system architecture, and reasoning — not as a production system.
 
-
----
-## What this repository demonstrates
-
-- End-to-end design of an agentic monitoring pipeline used in a real consulting context
-- Translation of partner-level information needs into concrete system behavior
-- Use of feedback loops and prioritization logic, not just one-off outputs
-- Incremental evolution of a system (v1 → v3) with clear architectural boundaries
 ---
 ## Typical Use Case
 
