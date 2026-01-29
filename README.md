@@ -95,15 +95,6 @@ collect → dedupe → apply_rules → extract → digest → output
 - A hosted SaaS or turnkey product
 - A complete implementation of all pipeline stages
 
----
-
-## Future Work (Planned)
-
-- Config-driven agent behavior
-- Multi-source ingestion
-- Persistent memory / state handling
-- Extended evaluation and logging
-- Additional output formats
 
 ---
 
