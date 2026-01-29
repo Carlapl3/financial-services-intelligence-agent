@@ -27,8 +27,6 @@ Built for consulting partners, demonstrating end-to-end agentic pipeline with fe
 
 The agent collects signals from selected sources, applies configurable rules and prioritization logic, uses LLMs for structured extraction and interpretation, and produces concise, executive-ready digests.
 
-This repository is intentionally scoped as a **portfolio-grade demonstration** of agent design, system architecture, and reasoning — not as a production system.
-
 ---
 
 ## Capabilities
